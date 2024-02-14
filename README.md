@@ -21,5 +21,8 @@
   <li>Media queries for responsive design</li>
 </ul>
 
+<h2>Demo</h2>
+<p>Watch a demo of the project <a href="https://farmzi3.netlify.app/">here</a>.</p>
+
 
 <img src="https://github.com/zHelga/Farmzi/raw/main/1.png" />
